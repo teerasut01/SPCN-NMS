@@ -24,6 +24,8 @@
 
 - ให้นำ IP ที่อาจารย์ให้ลงไปเติม หลังจากนั้น กด Add device
 
+![image](https://user-images.githubusercontent.com/117635686/210510698-7ef57202-1af9-4b51-ac2a-c5c8425c1f5f.png)
+
 ![image](https://user-images.githubusercontent.com/117635686/210509352-650adbf0-f093-46f5-9a69-afb2e6f61b5b.png)
 
 - หลังจากกด Add Deive แล้ว จะมีการแจ้ง IP ขึ้นมาดังรูป
