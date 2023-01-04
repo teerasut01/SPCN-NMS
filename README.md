@@ -2,7 +2,7 @@
 
 ขั้นตอนที่ 1
  
-เข้า Local Host กับตัว Sever 
+- เข้า Local Host กับตัว Sever 
 
 ![image](https://user-images.githubusercontent.com/117635686/210507928-41fc3f3a-35a5-43e7-9b21-079cd419e863.png)
 
@@ -34,7 +34,7 @@
 
 ![image](https://user-images.githubusercontent.com/117635686/210509885-a554c116-a047-4f17-a86b-577347304cd6.png)
 
-หลังจากนั้นรอภายใน 10 นาที (หรือไม่ก็รอ 1 วัน) เพื่อให้มันตรวจสอบเพราะว่ามันยังไม่สามารถระบุได้ภายในทันที
+- หลังจากนั้นรอภายใน 10 นาที (หรือไม่ก็รอ 1 วัน) เพื่อให้มันตรวจสอบเพราะว่ามันยังไม่สามารถระบุได้ภายในทันที
 
 ![image](https://user-images.githubusercontent.com/117635686/210510186-b2e6c0e1-8da1-44c5-b49f-6e372c28d0d9.png)
 
