@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/117635686/210507928-41fc3f3a-35a5-43e7-9b21-079cd419e863.png)
 
-ล็อคอินเข้ามาแล้วก็เจอกับหน้าดังรูป
+- ล็อคอินเข้ามาแล้วก็เจอกับหน้าดังรูป
 
 ![image](https://user-images.githubusercontent.com/117635686/210508426-e99621b6-9c61-457d-acb5-a428c9a86c82.png)
 
