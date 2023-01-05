@@ -19,8 +19,7 @@
 ![image](https://user-images.githubusercontent.com/117635686/210508835-4a5cea6f-70bc-45ac-8cec-a729fed27930.png)
 
 ![image](https://user-images.githubusercontent.com/117635686/210509070-3d1be511-615b-43dd-8ffa-6d0ec4d8aa69.png)
-
-วิธีการ Add device
+# วิธีการ Add device
 
 - ให้นำ IP ที่อาจารย์ให้ลงไปเติม หลังจากนั้น กด Add device
 
