@@ -45,7 +45,7 @@
 
 # การอ่านผลของเครื่องมือ
 
-พอเข้ามาในเครื่องที่เราแอดไปแล้วในส่วนของ Overview ก็สามารถดูค่าต่างๆได้ ดังรูปได้แก่ Ports,Eventlog,Prosessers,Memory,Storage
+พอเข้ามาในเครื่องที่เราแอดไปแล้วในส่วนของ Overview ก็สามารถดูค่าต่างๆได้ ดังรูปได้แก่ Ports,Eventlog,Processors,Memory,Storage
 
 ![image](https://user-images.githubusercontent.com/117635686/210832336-4e51b4ae-28f8-4dc7-9149-54a9ee42dd31.png)
 
@@ -57,10 +57,10 @@
 
 จะเป็นประวัติรายงานเหตุการณ์ที่เกิดขึ้น
 
-  - Prosessers
+  - Processors
 
-เอาไว้ดูการทำงานของ Prosessers
-
+เอาไว้ดูการทำงานของ Processors
+ 
   - Memory
 
 เอาไว้ดูความจำในส่วนของ RAM
